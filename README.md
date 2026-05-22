@@ -8,37 +8,19 @@
 
 ▸ ORIENTATION
 
-Strategic developer at the intersection of architecture, metrics, and systems control.
+Strategic developer at the intersection of creative architecture, metrics, and systems control.
 
 ---
 
-▸ STACK
+▸ TECH STACK
 
-TypeScript • Node.js • React • Voodoo Metrics (±0.1% calibrated)
-
----
-
-▸ REPOSITORIES
-
-meechExperience     → dripsetter (ambient rhythm)
-typeshii            → shiiiiii (type state shards)  
-brandie-xxx         → iamexx (identity layer)
+Wizardry (±0.1% calibrated)
 
 ---
 
 ▸ SIGNAL
 
-Contributions (last year): 21
-Active repos: 3
-Control frequency: strategic
-
----
-
-▸ PHILOSOPHY
-
-Control over chaos.
-Metrics over myth.
-Execution over explanation.
+> Control & execution over chaos.
 
 "Design is not just what it looks like — it's how it works."
 
@@ -46,9 +28,9 @@ Execution over explanation.
 
 ▸ CONNECT
 
-Issues and PRs only. Spice negotiations happen in the thread.
+Spice negotiations happen in the thread.
 
 ---
 
 last calibration: 2026.05
-voodoo status: nominal
+voodoo status: Professor Severus Snape
