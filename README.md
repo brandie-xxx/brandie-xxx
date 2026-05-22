@@ -1,19 +1,28 @@
 # brandie 📿
 ### `toppshotta` · strategic developer
 
+> **"I understand the rules well enough to break one with precision"**
+
+---
+
+### ▸ the prophecy *(philosophy)*
+
 > *"...he who controls spice, controls the universe."*
 
 ---
 
 ### ▸ orientation
+ 
+> ~ restricted section, shelf 7
 
-**"I understand the rules well enough to break one with precision"**
+Control & execution over chaos.  
+Design is not just what it looks like — *it's how it works.*  
 
 ---
 
-Strategic developer at the intersection of  
+software developer at the intersection of  
 
-***creative architecture · metrics · systems control.***
+> *creative architecture · business · systems control.*
 
 Not just building features — building leverage.  
 Execution is the strategy. Design is the argument. Code is the proof.
@@ -22,9 +31,9 @@ Execution is the strategy. Design is the argument. Code is the proof.
 
 ### ▸ spell book *(stack)*
 
-`Wizardry` `TypeScript` `React` `Node.js` `Python` `SQL`  
-`APIs` `Systems Design` `Voodoo` `Business Logic`  
-`UX Intuition`
+`Wizardry + Voodoo` | `TypeScript` | `React` | `Node.js` | `Python` | `PostgreSQL`  
+`APIs` | `C#` | `Business Logic`  
+`Tailwind CSS` | `UI/X Intuition` | `Systems Design + Arch.`
 
 ---
 
@@ -35,18 +44,6 @@ Execution is the strategy. Design is the argument. Code is the proof.
 | Wingardium Leviosa | .shipping products into orbit |
 | Accio Revenue | .summoning growth from data |
 | Expecto Patronum | .defending against scope creep ||
-
----
-
-### ▸ the prophecy *(philosophy)*
-
-> *"Neither can live while the other survives —*  
-> *good code, and bad processes."*
- 
-> ~ restricted section, shelf 7
-
-Control & execution over chaos.  
-Design is not just what it looks like — *it's how it works.*  
 
 ---
 
