@@ -1,4 +1,4 @@
-# brandie ⚡
+# brandie 📿
 ### `toppshotta` · strategic developer
 
 > *"...he who controls spice, controls the universe."*
@@ -7,7 +7,10 @@
 
 ### ▸ orientation
 
+**"I understand the rules well enough to break one with precision"**
+
 Strategic developer at the intersection of  
+
 ***creative architecture · metrics · systems control.***
 
 Not just building features — building leverage.  
