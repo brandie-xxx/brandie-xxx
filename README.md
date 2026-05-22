@@ -9,6 +9,8 @@
 
 **"I understand the rules well enough to break one with precision"**
 
+---
+
 Strategic developer at the intersection of  
 
 ***creative architecture · metrics · systems control.***
